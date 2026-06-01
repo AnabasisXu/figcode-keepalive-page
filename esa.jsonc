@@ -1,0 +1,8 @@
+{
+       "name": "figcode-keepalive-page",
+       "installCommand": "",
+       "buildCommand": "",
+       "assets": {
+         "directory": "./"
+       }
+     }
